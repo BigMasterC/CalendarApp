@@ -21,7 +21,7 @@ This project involves implementing a calendar application in C, utilizing dynami
 #### How to Run
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/BigMasterC/CalendarApp.git
    cd project4
    ```
 2. **Compile the program:**
@@ -56,4 +56,4 @@ This project involves implementing a calendar application in C, utilizing dynami
 
 ---
 
-Feel free to replace `<repository-url>` with the actual URL of your GitHub repository. Let me know if you need any adjustments!
+
